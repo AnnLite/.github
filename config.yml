@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/ann-lite/.github/security/advisories/new
+    about: Do NOT open a public issue for security reports — see SECURITY.md.
+  - name: Which repository should this go in?
+    url: https://github.com/ann-lite/.github/blob/main/CONTRIBUTING.md
+    about: Not sure which of the six repositories your issue belongs to? Check the table here first.
+  - name: Ann Lite documentation
+    url: https://github.com/ann-lite/ann-lite-docs
+    about: Cross-project architecture, security, and policy documentation.

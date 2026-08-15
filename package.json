@@ -1,0 +1,19 @@
+{
+  "name": "ann-lite-dot-github",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Organization-wide community health files and profile for Ann Lite.",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=20.0.0" },
+  "scripts": {
+    "check-files": "node scripts/check-files.mjs",
+    "test": "vitest run",
+    "format": "prettier --check \"**/*.md\"",
+    "format:write": "prettier --write \"**/*.md\""
+  },
+  "devDependencies": {
+    "vitest": "3.0.4",
+    "prettier": "3.4.2"
+  }
+}

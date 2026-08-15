@@ -1,0 +1,37 @@
+name: Bug report
+description: Something isn't working as expected (default template — most repos have their own, more specific version)
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you're filing this against a specific product repository
+        (ann-lite-web, ann-lite-api, ann-lite-contracts,
+        ann-lite-content, ann-lite-admin, or ann-lite-docs), please
+        file it there instead — each has a more specific bug report
+        form. Use this one only for the org-level `.github` repository
+        itself.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
