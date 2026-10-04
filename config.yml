@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AnnLite main repository
+    url: https://github.com/AnnLite/AnnLite
+    about: Application issues belong in AnnLite/AnnLite.
