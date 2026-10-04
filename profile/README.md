@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="social-preview.png" alt="AnnLite — Pray. Learn. Hope. Serve." width="100%">
-</p>
+  <img width="1280" height="640" alt="social-preview" src="https://github.com/user-attachments/assets/5f09517b-a591-4725-8b52-9f1a838ded61" />
 
 <h1 align="center">Ann Lite</h1>
 <p align="center"><b>Pray. Learn. Hope. Serve.</b><br><i>Priye. Aprann. Espere. Sèvi.</i></p>
