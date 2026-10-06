@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest an idea or improvement for AnnLite
+title: ""
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement. Share the problem, the idea, and why it matters.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: What feature or improvement would you like to see?
+      placeholder: I would like a way to...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: Explain the value for users, contributors, or the mission.
+      placeholder: This would help people by...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or examples
+      description: Mention similar approaches, references, or workarounds.
+      placeholder: Other apps do this by...
+  - type: textarea
+    id: goals
+    attributes:
+      label: Success criteria
+      description: How would we know the feature is working well?
+      placeholder: Users can complete X in under Y steps.

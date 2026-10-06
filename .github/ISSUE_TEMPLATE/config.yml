@@ -2,4 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: AnnLite main repository
     url: https://github.com/AnnLite/AnnLite
-    about: Application issues belong in AnnLite/AnnLite.
+    about: Application issues and product work belong in the main AnnLite monorepo.
+  - name: Support and questions
+    url: https://github.com/AnnLite/.github/blob/main/SUPPORT.md
+    about: Need help or want to ask a question? Start here.

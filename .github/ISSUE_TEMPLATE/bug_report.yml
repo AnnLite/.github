@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a bug in AnnLite
+title: ""
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this issue. Please provide as much detail as you can so we can investigate quickly.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Describe the bug
+      description: What happened, and what did you expect instead?
+      placeholder: The app crashes when...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps needed to reproduce the issue.
+      placeholder: |
+        1. Open the app
+        2. Click on...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include browser, version, device, or OS details if relevant.
+      placeholder: |
+        Browser: Chrome 128
+        OS: Ubuntu 24.04
+        Device: Desktop
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Add logs, screenshots, links, or anything else that helps.
+      placeholder: Attach screenshots or paste console output here.
