@@ -1,38 +1,46 @@
 <p align="center">
   <img width="1280" height="640" alt="social-preview" src="https://github.com/user-attachments/assets/5f09517b-a591-4725-8b52-9f1a838ded61" />
+</p>
 
 <h1 align="center">Ann Lite</h1>
 <p align="center"><b>Pray. Learn. Hope. Serve.</b><br><i>Priye. Aprann. Espere. Sèvi.</i></p>
 
-**Ann Lite** is a Christian platform for **prayer, Bible reading, reflection and transparent charitable giving** — in Haitian Creole, French and English. Founded by **Berline Britus**, from Haiti.
+<p align="center">
+  <a href="https://github.com/AnnLite/.github/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" /></a>
+  <a href="https://github.com/AnnLite/.github"><img alt="Community health" src="https://img.shields.io/badge/Community-health-blue.svg" /></a>
+  <a href="https://annlite.com"><img alt="Website" src="https://img.shields.io/badge/Website-annlite.com-8a2be2.svg" /></a>
+</p>
 
-> We never promise salvation or a place in heaven in exchange for using the platform or donating.
+**Ann Lite** is a Christian mission platform for **prayer, Bible learning, reflection, and transparent charitable giving**. We support communities in Haiti and beyond with faith-based tools and practical generosity.
 
-## 🌍 What we're building
-- 🙏 **Prayer & reflections** — Christian content with an editorial publishing workflow
-- 📖 **Bible & learning** — Scripture and education, only where legally permitted
-- 🤝 **Charitable giving** — supporting vulnerable children, orphans and elders
-- 🔍 **Transparency** — public donation feed and on-chain verification for crypto gifts
+> We do not promise salvation, a place in heaven, or guaranteed outcomes in exchange for prayer, use of the platform, or donations.
 
-## 💳 Payment channels
-| Channel | Details |
-|---|---|
-| **CeloHT dApp** | CELO and USDm, verified on-chain by our backend |
-| **Visa** | via a card provider — no raw card data stored |
-| **Mastercard** | via a card provider — no raw card data stored |
+## Mission
+- 🙏 Provide a safe space for prayer and reflection in Haitian Creole, French, and English.
+- 📖 Offer scripture-centered education and learning where legally permitted.
+- 🤝 Support vulnerable children, elders, and families through transparent giving.
+- 🔍 Maintain accountability through public reporting and verifiable donation trails.
 
-## 📦 Repositories
+## Core repositories
 | Repository | Purpose |
 |---|---|
-| [**AnnLite/AnnLite**](https://github.com/AnnLite/AnnLite) | The complete platform monorepo: web, mobile, admin, backend, database, content, payments, design system, security, infrastructure, tests and docs |
-| [**AnnLite/.github**](https://github.com/AnnLite/.github) | This organization profile and community-health defaults |
+| [AnnLite/AnnLite](https://github.com/AnnLite/AnnLite) | Full platform monorepo: web, mobile, admin, backend, database, payments, content, infrastructure, security, and tests |
+| [AnnLite/.github](https://github.com/AnnLite/.github) | Community health, policies, issue forms, and org-level collaboration defaults |
 
-## 🚦 Status
-**Pre-production.** No live card provider is connected yet, and our Celo smart contract is **not yet audited** (not for mainnet). We state only what is verified — see the [main README](https://github.com/AnnLite/AnnLite#status) for exact status.
+## Status
+**Pre-production.** We are transparent about what is verified and what is not. No live card provider is connected, and the Celo contract is not yet audited for production use.
 
-## 🤲 Get involved
-- Read the [Contributing guide](https://github.com/AnnLite/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/AnnLite/.github/blob/main/CODE_OF_CONDUCT.md)
-- Report vulnerabilities **privately** — see [SECURITY.md](https://github.com/AnnLite/.github/blob/main/SECURITY.md)
+## Ways to engage
+- Read the [Contributing guide](https://github.com/AnnLite/.github/blob/main/CONTRIBUTING.md)
+- Review the [Code of Conduct](https://github.com/AnnLite/.github/blob/main/CODE_OF_CONDUCT.md)
+- Report vulnerabilities privately in [SECURITY.md](https://github.com/AnnLite/.github/blob/main/SECURITY.md)
 - Need help? See [SUPPORT.md](https://github.com/AnnLite/.github/blob/main/SUPPORT.md)
+- Explore the project license in [LICENSE](https://github.com/AnnLite/.github/blob/main/LICENSE)
+
+## Featured values
+- Transparency over hype
+- Care over pressure
+- Education over manipulation
+- Accountability over vague promises
 
 🌐 [annlite.com](https://annlite.com) · 🇭🇹 Haiti
